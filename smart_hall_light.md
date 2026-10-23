@@ -21,6 +21,7 @@ The system operates in three distinct modes displayed on an LCD, selectable by b
 
 ## 🛠️ Components
 * [ ] **WiFi Module**
+* [ ] **Control Buttons**
 * [ ] **LED**
 * [ ] **IR Sensor**
 * [ ] **Photoresistor**
