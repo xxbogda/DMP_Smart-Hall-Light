@@ -7,7 +7,7 @@ A conceptual design for a smart, multi-functional hallway lighting system. This 
 The system operates in three distinct modes, selectable remotely via WiFi:
 
 ### 1. Motion Detector Mode (Auto-Illumination)
-*   **Trigger:** Passive Infrared (PIR/IR) Sensor.
+*   **Trigger:** Infrared (IR) Sensor.
 *   **Behavior:** Activates the LED when movement is detected and keeps it on for a predefined period.
 *   **Energy Saving:** Utilizes an ambient light sensor to ensure the LED *only* activates if the hallway is dark.
 
